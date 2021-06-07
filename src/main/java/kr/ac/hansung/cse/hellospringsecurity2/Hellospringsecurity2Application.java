@@ -1,0 +1,13 @@
+package kr.ac.hansung.cse.hellospringsecurity2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Hellospringsecurity2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Hellospringsecurity2Application.class, args);
+    }
+
+}
